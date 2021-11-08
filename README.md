@@ -1,6 +1,6 @@
-## Hi there 👋 
-#### it's Jose Moyano 
-##### Cloud Solution Architect - Data/AI
+## Hi there 👋 I'm Jose
+
+### Cloud Solution Architect - Data/AI
 
 ### Contact
 
@@ -28,7 +28,6 @@
 - 👯 I’m looking to collaborate on Data/ML aplications
 - 🤔 I’m looking for help with Tech Entrepenuirship
 - 💬 Ask me about tech, Machine Learning, python
-- 📫 How to reach me: twitter @jmmoyanosuarez, instagram: @jmmoyano
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a Moustache right now
 
