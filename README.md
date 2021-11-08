@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Jose
 
-#### Work -> ML/Data Engineer - Data/AI
-
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
