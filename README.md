@@ -6,21 +6,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
 
-[![Instagram]] https://img.shields.io/badge/Instagram-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
 
 
 #### 🏗️ My common tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Spark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=apache-spark&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
 
 
 #### ☁️ Cloud Providers
 
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazon-aws)
-![Azure] ()
+![Azure] (https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP] (https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Recap
 
