@@ -5,6 +5,7 @@
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
+[![Instagram]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white, https://www.instagram.com/jmmoyano/)
 
 #### 🏗️ My common tools
 
