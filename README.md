@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jose
 
-#### Work -> Cloud Solution Architect - Data/AI
+#### Work -> ML/Data Engineer - Data/AI
 
 ### Contact
 
