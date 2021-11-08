@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
 
-[![Instagram] https://img.shields.io/badge/LinkedIn-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
+[![Instagram] https://img.shields.io/badge/Instagram-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
 
 
 #### 🏗️ My common tools
@@ -32,3 +32,8 @@
 - 📫 How to reach me: twitter @jmmoyanosuarez, instagram: @jmmoyano
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a Moustache right now
+
+### My GitHub's activity
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=David-Carrasco&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Carrasco&hide=TeX&layout=compact)
