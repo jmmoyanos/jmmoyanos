@@ -1,10 +1,13 @@
 ## Hi there 👋 
 #### it's Jose Moyano 
-#### Cloud Solution Architect - Data/AI
+##### Cloud Solution Architect - Data/AI
 
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
+
+[![Instagram] https://img.shields.io/badge/LinkedIn-josemariamoyano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
+
 
 #### 🏗️ My common tools
 
