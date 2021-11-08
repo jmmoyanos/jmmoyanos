@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on Data/ML aplications
 - 🤔 I’m looking for help with Tech Entrepenuirship
 - 💬 Ask me about tech, Machine Learning, python
-- 📫 How to reach me: josemoysua@gmail.com
+- 📫 How to reach me: twitter @jmmoyanosuarez, instagram: @jmmoyano
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have a Moustache right now
