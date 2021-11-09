@@ -28,7 +28,7 @@ Data/ML Engineer with a MSC in Telecommunications Engineering
 - 🌱 I’m currently learning **ML and Data Engineering**
 - 👯 I’m looking to collaborate on **Data/ML aplications**
 - 🤔 I’m looking for help with **Tech Entrepenuirship, freelancing**
-- 💬 Ask me about tech, Machine Learning, python
+- 💬 Ask me about tech, Machine Learning, python, Data Engineering, SQL, Cloud
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a Moustache right now
 
