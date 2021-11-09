@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Jose
 
+Data/ML Engineer with a MSC in Telecommunications Engineering
+
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-moyano-suarez/)
