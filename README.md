@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jose
 
-Data/ML Engineer with a MSC in Telecommunications Engineering
+Cloud Data Engineer at Keepler | MSC in Telecommunications Engineering
 
 ### Contact
 
