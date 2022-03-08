@@ -24,13 +24,12 @@ Cloud Data Engineer at Keepler | MSC in Telecommunications Engineering
 
 ### In a Nutshell
 
-- 🔭 I’m currently working on **Alkemy Iberia** as a Cloud Solutions Arquitech focused on Data and AI. 
-- 🌱 I’m currently learning **ML and Data Engineering**
+- 🔭 I’m currently working on **Keepler* as a Cloud Engineer. 
+- 🌱 I’m currently learning **ML and Data Engineering and Public Cloud**
 - 👯 I’m looking to collaborate on **Data/ML aplications**
 - 🤔 I’m looking for help with **Tech Entrepenuirship, freelancing**
 - 💬 Ask me about tech, Machine Learning, python, Data Engineering, SQL, Cloud
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a Moustache right now
 
 ### My GitHub's activity
 
