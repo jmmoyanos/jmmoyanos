@@ -54,11 +54,8 @@ I'm a **Senior Data Engineer / Lead** with 6+ years building cloud-native data p
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CVCoach / career-ops**](https://github.com/jmmoyanos/cvcoach) | Local AI career platform — CV assessment, job portal scanner, job tracker, profile manager | RAG, Python, FastAPI, Vector DB |
-| [**Job Hunting Plugin**](https://github.com/jmmoyanos/busqueda-laboralista-plugin) | Automation for labour law job discovery & verification. Gmail integration, Excel tracker | Python, n8n, Gmail API |
-| [**MCP Skyscanner**](https://github.com/jmmoyanos/mcp-skyscanner) | MCP server exposing Skyscanner flight data as an AI tool | Python, MCP, APIs |
+| [**CVCoach](https://github.com/jmmoyanos/cvcoach) | Local AI career platform — CV assessment, job portal scanner, job 
 | [**Life List App**](https://github.com/jmmoyanos/life-list-app) | Personal life goal tracking app | Python, Frontend |
-| [**Car Comparator**](https://github.com/jmmoyanos/car_comparator_selenium) | Web scraping ETL demo for car listings comparison | Python, Selenium |
 
 ---
 
