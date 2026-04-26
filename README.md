@@ -54,8 +54,8 @@ I'm a **Senior Data Engineer / Lead** with 6+ years building cloud-native data p
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CVCoach](https://github.com/jmmoyanos/cvcoach) | Local AI career platform — CV assessment, job portal scanner, job 
-| [**Life List App**](https://github.com/jmmoyanos/life-list-app) | Personal life goal tracking app | Python, Frontend |
+| [**CVCoach](https://github.com/jmmoyanos/cvcoach) | Coming Soon - Local AI career Coach — have and AI mentor to help you with your career
+| [**Life List App**](https://github.com/jmmoyanos/life-list-app) | Coming Soon - Personal life goal tracking app | Python, Frontend |
 
 ---
 
